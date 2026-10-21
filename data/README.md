@@ -2,8 +2,8 @@
 
 ## `Monthly_PB_PS_PE_MV_R_TR.xlsx` (not included)
 
-This is a monthly panel of China A-share stocks, Dec 2005 to Feb 2022, with 416,841 rows and 3,146 stocks. It came from
-a commercial data vendor and is not redistributed here. To run the notebook, put a file with these columns in this
+This is a monthly panel of China A-share stocks, Dec 2005 to Feb 2022, with 416,841 rows and 3,146 stocks. It was exported from
+the **Wind** financial terminal. Wind's license does not allow redistribution, so the file is not included here. To run the notebook, put a file with these columns in this
 folder:
 
 | Column | Description |

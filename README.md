@@ -59,7 +59,7 @@ The first pass is kept in the notebook on purpose, so the before/after compariso
 
 ```
 fama_french_3factor.ipynb   end-to-end notebook (executed, with outputs)
-data/README.md              data schema and sources
+data/README.md              data schema and sources (raw data from Wind, not included)
 data/Rf_data.xlsx           one-year deposit rate history
 figures/                    charts used in this README
 requirements.txt
